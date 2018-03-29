@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+body {
+    background: url('/assets/images/bg.jpg') no-repeat;
+    background-size:cover;
+    background-position: 0 60%;
+    color:#ffffff;
+    font-family: 'Raleway';
+}
+
+h1 {
+    font-weight:bold;
+    font-size:3.5em;
+}
+
+.hero-img {
+    width:80%;
+}
+
+

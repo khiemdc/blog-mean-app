@@ -1,0 +1,30 @@
+
+.post-container{
+  padding: 23px;
+  margin-bottom: 30px;
+  height: 100%;
+  
+  p{
+    margin: 10px 0 15px 0;
+  }
+}
+
+.posts{
+  margin-bottom: 30px;
+}
+.post-title{
+  font-size: 1.4em;
+  display: block;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    h1 {
+      font-size: 24px;
+    }
+
+    h4 {
+        font-size: 18px;
+      }
+}
